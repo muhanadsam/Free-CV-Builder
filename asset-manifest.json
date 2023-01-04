@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Free-CV-Builder/static/css/main.4fee278f.css",
+    "main.js": "/Free-CV-Builder/static/js/main.eb774d56.js",
+    "static/media/resume.svg": "/Free-CV-Builder/static/media/resume.747b0dd9d4a36a4fe054ab84b590ebfb.svg",
+    "index.html": "/Free-CV-Builder/index.html",
+    "main.4fee278f.css.map": "/Free-CV-Builder/static/css/main.4fee278f.css.map",
+    "main.eb774d56.js.map": "/Free-CV-Builder/static/js/main.eb774d56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4fee278f.css",
+    "static/js/main.eb774d56.js"
+  ]
+}
